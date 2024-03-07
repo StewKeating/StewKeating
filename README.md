@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StewKeating
 - 👀 I’m interested in Python & R
-- 🌱 I’m currently learning (and forever will be learning) Python
+- 🌱 I work with Python, R, SQL, Power BI DAX but also use javascript, MATLAB, HTML and some basic Visual basic.
 - 💞️ I’m looking to data analytics, specifically data joining, validation and visualisation 
 
 <!---
